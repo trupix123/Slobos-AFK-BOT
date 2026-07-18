@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pms1-4glC.aternos.me:",
+    "ip": "pms1-4glC.aternos.me",
     "port": 35162,
     "version": "1.21.1"
   },
